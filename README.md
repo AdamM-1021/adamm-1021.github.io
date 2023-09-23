@@ -1,5 +1,3 @@
-# adamm-1021.github.io
+#AdamM landing page
 
 Homepage for projects from AdamM
-
-Additional information to be added
