@@ -1,4 +1,4 @@
-# AdamM's Homepage
+# Adam McCall - Homepage
 
 ## Full Projects
 
