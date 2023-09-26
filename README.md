@@ -1,4 +1,6 @@
-# Full Projects
+# AdamM's Homepage
+
+## Full Projects
 
 ### [Circuit Tracer](https://github.com/AdamM-1021/Circuit-Tracer)
 
@@ -24,7 +26,7 @@ class. Also contains multiple unit tests for each list
 
 -------------------
 
-# Smaller Classes
+## Smaller Classes
 
 ### [Recursive Sort](https://github.com/AdamM-1021/Recursive-Sort)
 
