@@ -43,7 +43,7 @@ Generic type Max Heap class for java, contains the used implemented interface.
 Contains all relevant functions, including the recursive heapsort and build
 max heap algorithms.
 
-## [Cache Class](https://github.com/AdamM-1021/Cache-project)
+### [Cache Class](https://github.com/AdamM-1021/Cache-project)
 
 Java cache class, sourced from the cs321 project.
 
