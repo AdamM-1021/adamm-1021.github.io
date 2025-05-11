@@ -1,6 +1,22 @@
-## Full Projects
+# Adam McCall's Homepage
+
+## [Senior Project](https://cs481-ekh.github.io/s25-sis/)
+
+### Sign-in Page
+![Sign-in page](https://i.imgur.com/jPs6iMM.png)
+
+### User Display
+![User Display](https://i.imgur.com/KhUyjpw.png)
+
+Lab usage tracker currently in use at the Engineering Innovation Studio at Boise State University.
+
+Developed using Next.js with a SQLite 3 backend, and deployed using Docker/Podman.
+
+Includes both student and administrator sign-ins, and supports real time logging and data collection.
 
 -------------------
+
+## Personal Projects and Assignments
 
 ### [Shift Game](https://github.com/AdamM-1021/Shift-game)
 
